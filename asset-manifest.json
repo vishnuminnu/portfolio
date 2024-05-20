@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.e747be8a.css",
+    "main.js": "/portfolio/static/js/main.f9bfc8e7.js",
+    "static/js/453.8ab44547.chunk.js": "/portfolio/static/js/453.8ab44547.chunk.js",
+    "static/media/py.jpg": "/portfolio/static/media/py.5d718b3891504a2444b8.jpg",
+    "static/media/v1.jpg": "/portfolio/static/media/v1.1057fadef8920edd6b96.jpg",
+    "static/media/vincense.jpg": "/portfolio/static/media/vincense.512cacede92bd9fd80fb.jpg",
+    "static/media/v2.jpg": "/portfolio/static/media/v2.c89e9fbfd122348d88ba.jpg",
+    "static/media/minnu.png": "/portfolio/static/media/minnu.0179f756fbac01801e33.png",
+    "static/media/dsa.jpg": "/portfolio/static/media/dsa.b4889da533998ba43c83.jpg",
+    "static/media/vm.jpg": "/portfolio/static/media/vm.7dd84c6c272e21606a78.jpg",
+    "static/media/mrec.png": "/portfolio/static/media/mrec.82240bfe3d75614232ce.png",
+    "static/media/vasavi.png": "/portfolio/static/media/vasavi.ab34f8c708d1025532a6.png",
+    "static/media/frontend.jpg": "/portfolio/static/media/frontend.10167a121b335da7bd1c.jpg",
+    "static/media/react.jpg": "/portfolio/static/media/react.fa50489c8853737652ab.jpg",
+    "static/media/githubimg.jpeg": "/portfolio/static/media/githubimg.dd17d0b99f050d7ee81a.jpeg",
+    "static/media/narayana.png": "/portfolio/static/media/narayana.8124820392d1935f31a4.png",
+    "static/media/logo.svg": "/portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/portfolio/index.html",
+    "main.e747be8a.css.map": "/portfolio/static/css/main.e747be8a.css.map",
+    "main.f9bfc8e7.js.map": "/portfolio/static/js/main.f9bfc8e7.js.map",
+    "453.8ab44547.chunk.js.map": "/portfolio/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e747be8a.css",
+    "static/js/main.f9bfc8e7.js"
+  ]
+}
